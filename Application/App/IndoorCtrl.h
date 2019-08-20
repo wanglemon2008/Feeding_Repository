@@ -25,7 +25,6 @@
 #define INCTRL_ERR2_TEMP1_SENSOR			0x00000001
 #define INCTRL_ERR2_TEMP1_SENSOR			0x00000001
 
-
 typedef enum
 {
 	SYS_WM_STOP = 0,
