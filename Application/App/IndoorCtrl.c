@@ -2822,6 +2822,7 @@ static bool SaveNvSysData(void)
 	return FALSE;
 }
 
+
 /*****
 * History
 * Initial version.
